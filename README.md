@@ -20,7 +20,14 @@
 - `vue add vuetify`
 
 
-
+## Try to put it on Docker
+- create the Dockerfile
+- terminal:
+    `docker build -t dockerize-vue .`
+    run it:
+    `docker run -it -p 8080:80 --rm --name dockerize-vuejs dockerize-vue`
+    go to:
+    `localhost:8080`
 
 
 
