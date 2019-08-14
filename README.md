@@ -29,6 +29,12 @@
     go to:
     `localhost:8080`
 
+###Notes:
+1. if go to: `localhost:8080/home` it is not working
+    but if we use the navbar its ok
+2. the menu bar for the larg screen is not ok
+
+
 
 
 
